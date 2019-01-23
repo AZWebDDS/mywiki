@@ -1,0 +1,4 @@
+.logs/*
+public/*
+!/public/LocalSettings.php
+!/public/robots.txt
